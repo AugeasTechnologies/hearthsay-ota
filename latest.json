@@ -1,8 +1,8 @@
 {
-  "versionCode": 9,
-  "versionName": "1.5.0",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.5.0/Hearthsay-v1.5.0.apk",
-  "sha256": "6e6374eee426a1045339103cf6b7705031efa4ff9acc8704d696729a68eadc4f",
+  "versionCode": 10,
+  "versionName": "1.6.0",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.6.0/Hearthsay-v1.6.0.apk",
+  "sha256": "e8b7ad23ac834f431834dbd8dd83a1d966ee559e233128c72a52e2af55cb555c",
   "mandatory": false,
-  "notes": "After you save a recording, a next-steps hub helps you review the transcript and do more with it. Each loved one now has a Family Glossary for names and sayings, and your family tree saves to your account."
+  "notes": "Ask by voice — tap the mic, speak your question, and hear a source-backed answer. Your Family Glossary now syncs to your account and helps answers use your family's own names and sayings."
 }
