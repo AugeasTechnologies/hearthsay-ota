@@ -1,8 +1,8 @@
 {
-  "versionCode": 6,
-  "versionName": "1.3.1",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.3.1/Hearthsay-v1.3.1.apk",
-  "sha256": "abc53d7b4e3e3846f8b74656a278b1c7350ca558726c84b11d7086ddc4dc551f",
+  "versionCode": 7,
+  "versionName": "1.4.0",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.4.0/Hearthsay-v1.4.0.apk",
+  "sha256": "5a6e303722062381135e81bc0363f4481af3480fa7ef687b2425a1382355e0a9",
   "mandatory": false,
-  "notes": "Cleaner advanced-voice list, fixed Settings cards and consent rows, and tidier text that no longer crowds or truncates on larger font sizes."
+  "notes": "A family tree you can hear, a warmer companion that answers from your real saved memories, smoother motion throughout, and screens that scale to every phone size."
 }
