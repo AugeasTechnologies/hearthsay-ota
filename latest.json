@@ -1,8 +1,8 @@
 {
-  "versionCode": 3,
-  "versionName": "1.1.0",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.1.0/Hearthsay-v1.1.0.apk",
-  "sha256": "9867c243dccf06af7d4359e6ae9ea32a34ab7a711275557b04c51dcecdf6fbbd",
+  "versionCode": 4,
+  "versionName": "1.2.0",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.2.0/Hearthsay-v1.2.0.apk",
+  "sha256": "d22eabd2e1f4d981d61a148a612c4b5171f8d4b15501755a32223a274f6dd5a0",
   "mandatory": false,
-  "notes": "Hearthsay 1.1.0 — Playback fixed (recordings now play through the speaker), the waveform reacts to your real voice, a Sensitive Information Guard keeps private details out of memories, and Early Access wording throughout."
+  "notes": "Hearthsay 1.2.0 — text now fits on one line everywhere, tap options directly to open, real speech-to-text transcription, and a neutral Listen read-aloud. Includes the playback fix."
 }
