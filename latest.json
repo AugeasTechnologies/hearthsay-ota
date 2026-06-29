@@ -1,8 +1,8 @@
 {
-  "versionCode": 7,
-  "versionName": "1.4.0",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.4.0/Hearthsay-v1.4.0.apk",
-  "sha256": "5a6e303722062381135e81bc0363f4481af3480fa7ef687b2425a1382355e0a9",
+  "versionCode": 8,
+  "versionName": "1.4.1",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.4.1/Hearthsay-v1.4.1.apk",
+  "sha256": "a47397599816eb085c1e67c29044d69e0cd6da3d628a2603a998f1f342d86e2d",
   "mandatory": false,
-  "notes": "A family tree you can hear, a warmer companion that answers from your real saved memories, smoother motion throughout, and screens that scale to every phone size."
+  "notes": "New Voice & audio settings — choose a Hearthsay narrator, your own voice, or an opted-in loved-one voice, each with clear consent. Plus performance tuning for scale."
 }
