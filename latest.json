@@ -1,8 +1,8 @@
 {
-  "versionCode": 4,
-  "versionName": "1.2.0",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.2.0/Hearthsay-v1.2.0.apk",
-  "sha256": "d22eabd2e1f4d981d61a148a612c4b5171f8d4b15501755a32223a274f6dd5a0",
+  "versionCode": 5,
+  "versionName": "1.3.0",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.3.0/Hearthsay-v1.3.0.apk",
+  "sha256": "044c9ae3449800028d76f1e62fbb81bcdd1804bd637efd614011f990d35e43ea",
   "mandatory": false,
-  "notes": "Hearthsay 1.2.0 — text now fits on one line everywhere, tap options directly to open, real speech-to-text transcription, and a neutral Listen read-aloud. Includes the playback fix."
+  "notes": "Cleaner, calmer screens with less text and clearer wording, a more polished demo family, voice playback examples, and dozens of consistency fixes across the app."
 }
