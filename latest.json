@@ -1,0 +1,8 @@
+{
+  "versionCode": 2,
+  "versionName": "1.0.0",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.0.0/Hearthsay-v1.0.0.apk",
+  "sha256": "b39bf7d0213e118bc2030e63f6b9aa276d88b32c5867b4a06e61b8c659e28dae",
+  "mandatory": false,
+  "notes": "Hearthsay 1.0.0 — a simpler app with real playback, re-record, filters, and account-synced recordings. Future updates now arrive over the air, no cable needed."
+}
