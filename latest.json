@@ -1,8 +1,8 @@
 {
-  "versionCode": 8,
-  "versionName": "1.4.1",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.4.1/Hearthsay-v1.4.1.apk",
-  "sha256": "a47397599816eb085c1e67c29044d69e0cd6da3d628a2603a998f1f342d86e2d",
+  "versionCode": 9,
+  "versionName": "1.5.0",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.5.0/Hearthsay-v1.5.0.apk",
+  "sha256": "6e6374eee426a1045339103cf6b7705031efa4ff9acc8704d696729a68eadc4f",
   "mandatory": false,
-  "notes": "New Voice & audio settings — choose a Hearthsay narrator, your own voice, or an opted-in loved-one voice, each with clear consent. Plus performance tuning for scale."
+  "notes": "After you save a recording, a next-steps hub helps you review the transcript and do more with it. Each loved one now has a Family Glossary for names and sayings, and your family tree saves to your account."
 }
