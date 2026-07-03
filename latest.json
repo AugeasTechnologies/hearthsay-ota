@@ -1,8 +1,8 @@
 {
-  "versionCode": 10,
-  "versionName": "1.6.0",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.6.0/Hearthsay-v1.6.0.apk",
-  "sha256": "e8b7ad23ac834f431834dbd8dd83a1d966ee559e233128c72a52e2af55cb555c",
+  "versionCode": 11,
+  "versionName": "1.6.1",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.6.1/Hearthsay-v1.6.1.apk",
+  "sha256": "1b619f3aeec2a8f2333a32d6168b2cb85ba70ae3318fd5bd31bcee8d1c9141e6",
   "mandatory": false,
-  "notes": "Ask by voice — tap the mic, speak your question, and hear a source-backed answer. Your Family Glossary now syncs to your account and helps answers use your family's own names and sayings."
+  "notes": "Polish and reliability improvements across the app."
 }
