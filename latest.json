@@ -1,8 +1,8 @@
 {
-  "versionCode": 14,
-  "versionName": "1.7.2",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.2/Hearthsay-v1.7.2.apk",
-  "sha256": "c082f780614666f0cc3f9c3eee089cb2c33fac90ea053f55e0a19bb8a41b1502",
+  "versionCode": 15,
+  "versionName": "1.7.3",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.3/Hearthsay-v1.7.3.apk",
+  "sha256": "9a261fbc1f327b6ce8aa1409c8d2cbe4498bb590047d0265ecb6905f209fd059",
   "mandatory": false,
-  "notes": "Smoother, clearer, and kinder when something goes wrong — plus better big-text support."
+  "notes": "Better screen-reader support, correct wording for one memory or one person, and steadier layout at large text sizes."
 }
