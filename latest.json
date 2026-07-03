@@ -1,8 +1,8 @@
 {
-  "versionCode": 12,
-  "versionName": "1.7.0",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.0/Hearthsay-v1.7.0.apk",
-  "sha256": "9dc2f0623c5517699102dcc0153c7e779362008f73312313c4f1a0c4c42a979e",
+  "versionCode": 13,
+  "versionName": "1.7.1",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.1/Hearthsay-v1.7.1.apk",
+  "sha256": "cf5dbf78eeebd49e87f60a766d45cbd32cde0a638413520fcaaa1c2a341803b0",
   "mandatory": false,
-  "notes": "Collaborate on your family tree: invite family to view, suggest additions, and approve changes."
+  "notes": "Clearer, friendlier wording throughout for first-time users."
 }
