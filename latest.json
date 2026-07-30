@@ -1,8 +1,8 @@
 {
-  "versionCode": 16,
-  "versionName": "1.7.4",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.4/Hearthsay-v1.7.4.apk",
-  "sha256": "03725b5a788b45be2c42b3db825e9bcda53e5dc396b6753f2e98b31aa2df4e39",
+  "versionCode": 17,
+  "versionName": "1.7.5",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.5/Hearthsay-v1.7.5.apk",
+  "sha256": "6638d600060ab2133abe6e806e7e0d6255c17b05ee1c127952cd3feb3f434ea2",
   "mandatory": false,
-  "notes": "Small polish: swipe to dismiss the keyboard, and a copy cleanup."
+  "notes": "Reduce-motion polish: calmer record button and loading placeholders when reduce-motion is on."
 }
