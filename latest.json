@@ -1,8 +1,8 @@
 {
-  "versionCode": 17,
-  "versionName": "1.7.5",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.5/Hearthsay-v1.7.5.apk",
-  "sha256": "6638d600060ab2133abe6e806e7e0d6255c17b05ee1c127952cd3feb3f434ea2",
+  "versionCode": 18,
+  "versionName": "1.7.6",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.6/Hearthsay-v1.7.6.apk",
+  "sha256": "3ff8e572519fc7d874fd0e82cc0b7eaf158c4a8d4228834def3e4ce25a1c59d3",
   "mandatory": false,
-  "notes": "Reduce-motion polish: calmer record button and loading placeholders when reduce-motion is on."
+  "notes": "A warmer, deeper accent color and a cleaner, less-wordy look."
 }
