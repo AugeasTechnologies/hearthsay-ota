@@ -1,8 +1,8 @@
 {
-  "versionCode": 18,
-  "versionName": "1.7.6",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.7.6/Hearthsay-v1.7.6.apk",
-  "sha256": "3ff8e572519fc7d874fd0e82cc0b7eaf158c4a8d4228834def3e4ce25a1c59d3",
+  "versionCode": 19,
+  "versionName": "1.8.0",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.0/Hearthsay-v1.8.0.apk",
+  "sha256": "dfe0d3be36b6f40c001cebd7088a87d01f2485db756ed6089ad37b5c0f8ff546",
   "mandatory": false,
-  "notes": "A warmer, deeper accent color and a cleaner, less-wordy look."
+  "notes": "A fully refreshed look: clean modern design, automatic dark mode that follows your phone, tidy memory tiles, and save or import memories with Google Drive."
 }
