@@ -1,8 +1,8 @@
 {
-  "versionCode": 20,
-  "versionName": "1.8.1",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.1/Hearthsay-v1.8.1.apk",
-  "sha256": "514f9b504ae55d853767a440dbc5c7cff192095f47c9c7b0091464a4b38ccfef",
+  "versionCode": 21,
+  "versionName": "1.8.2",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.2/Hearthsay-v1.8.2.apk",
+  "sha256": "53e0dd8546414f89d95a9b70ccac5b9978d39bcc7da53ec49a0214fd09f55d78",
   "mandatory": false,
-  "notes": "Subtle motion polish: profile stats count up, and memory tiles feel tactile."
+  "notes": "Story avatars now gently animate to match the feeling in each person's memories."
 }
