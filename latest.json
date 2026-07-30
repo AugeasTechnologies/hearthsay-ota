@@ -1,8 +1,8 @@
 {
-  "versionCode": 21,
-  "versionName": "1.8.2",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.2/Hearthsay-v1.8.2.apk",
-  "sha256": "53e0dd8546414f89d95a9b70ccac5b9978d39bcc7da53ec49a0214fd09f55d78",
+  "versionCode": 22,
+  "versionName": "1.8.3",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.3/Hearthsay-v1.8.3.apk",
+  "sha256": "ad93f56305c8c37ca6ec832d34b93679448378a29b2a68fd957f632fd747c796",
   "mandatory": false,
-  "notes": "Story avatars now gently animate to match the feeling in each person's memories."
+  "notes": "Read any memory in English letters — a loved one's own words, romanized, in any language."
 }
