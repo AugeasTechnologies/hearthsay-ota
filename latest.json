@@ -1,8 +1,8 @@
 {
-  "versionCode": 22,
-  "versionName": "1.8.3",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.3/Hearthsay-v1.8.3.apk",
-  "sha256": "ad93f56305c8c37ca6ec832d34b93679448378a29b2a68fd957f632fd747c796",
+  "versionCode": 24,
+  "versionName": "1.8.5",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.5/Hearthsay-v1.8.5.apk",
+  "sha256": "73da0563e4e86f7f11478d922a75c73996ebcdb023a7e4d99b6da0ae33cd557c",
   "mandatory": false,
-  "notes": "Read any memory in English letters — a loved one's own words, romanized, in any language."
+  "notes": "Cleaner launch and readable tags in dark mode — the app follows your light or dark theme from the first frame."
 }
