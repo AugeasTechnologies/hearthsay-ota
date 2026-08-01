@@ -1,8 +1,8 @@
 {
-  "versionCode": 26,
-  "versionName": "1.8.7",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.7/Hearthsay-v1.8.7.apk",
-  "sha256": "83f56be5eeea0e3b1d2d41c94dec5bae553f5c590771ee1ab8a9deb1e26c3bff",
+  "versionCode": 27,
+  "versionName": "1.8.8",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.8/Hearthsay-v1.8.8.apk",
+  "sha256": "708a5b3b6d71849f3f6ab8fc0b65e4951e4410a1e15bc7f6f7dcd7ec1109b305",
   "mandatory": false,
-  "notes": "iPod-style Cover Flow to browse memories, plus tighter header spacing on the memory screen."
+  "notes": "Add a photo to any loved one — tap their avatar to pick one; their face shows instead of an initial."
 }
