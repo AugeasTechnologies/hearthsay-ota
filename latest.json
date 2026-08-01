@@ -1,8 +1,8 @@
 {
-  "versionCode": 30,
-  "versionName": "1.9.1",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.1/Hearthsay-v1.9.1.apk",
-  "sha256": "b34943402e2c4f9095a7eee501433be51329a3bd05bf7ce39df4b5033dc14b7f",
+  "versionCode": 31,
+  "versionName": "1.9.2",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.2/Hearthsay-v1.9.2.apk",
+  "sha256": "ecc2c325311d0cd40211eef43c1c15af9d875a4c614bec072fd491570a098fbb",
   "mandatory": false,
-  "notes": "Family tree now shows each person's photo on their node once you add one."
+  "notes": "Fixes: you can now reach sign-in from the demo; no duplicate memory on a fast double-tap; smoother family-tree bubble dragging; recorder returns the right take."
 }
