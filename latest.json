@@ -1,8 +1,8 @@
 {
-  "versionCode": 27,
-  "versionName": "1.8.8",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.8/Hearthsay-v1.8.8.apk",
-  "sha256": "708a5b3b6d71849f3f6ab8fc0b65e4951e4410a1e15bc7f6f7dcd7ec1109b305",
+  "versionCode": 28,
+  "versionName": "1.8.9",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.9/Hearthsay-v1.8.9.apk",
+  "sha256": "4311887f4684df88133606404b35ef297d54aad4388f5d87cf16da1237bf7909",
   "mandatory": false,
-  "notes": "Add a photo to any loved one — tap their avatar to pick one; their face shows instead of an initial."
+  "notes": "Your family tree is now one tap from Home — see how everyone connects and add anyone by name."
 }
