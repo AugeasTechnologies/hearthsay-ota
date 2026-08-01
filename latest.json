@@ -1,8 +1,8 @@
 {
-  "versionCode": 29,
-  "versionName": "1.9.0",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.0/Hearthsay-v1.9.0.apk",
-  "sha256": "45485f6260a4ad7694c8703f6649ad884f23f96a138b77fc04360a9e581f4921",
+  "versionCode": 30,
+  "versionName": "1.9.1",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.1/Hearthsay-v1.9.1.apk",
+  "sha256": "b34943402e2c4f9095a7eee501433be51329a3bd05bf7ce39df4b5033dc14b7f",
   "mandatory": false,
-  "notes": "Family tree: drag any person to rearrange the tree by hand — the branches follow. Tap a person to open them."
+  "notes": "Family tree now shows each person's photo on their node once you add one."
 }
