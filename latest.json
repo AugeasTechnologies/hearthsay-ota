@@ -1,8 +1,8 @@
 {
-  "versionCode": 25,
-  "versionName": "1.8.6",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.6/Hearthsay-v1.8.6.apk",
-  "sha256": "1f3213f7278b71cd335e7bc27677b4b46d731f768dca65fc0e5b63cc5648c3ae",
+  "versionCode": 26,
+  "versionName": "1.8.7",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.8.7/Hearthsay-v1.8.7.apk",
+  "sha256": "83f56be5eeea0e3b1d2d41c94dec5bae553f5c590771ee1ab8a9deb1e26c3bff",
   "mandatory": false,
-  "notes": "Warm, human look throughout; save an audio memory even before its transcript; recording shows a clean voice graph."
+  "notes": "iPod-style Cover Flow to browse memories, plus tighter header spacing on the memory screen."
 }
