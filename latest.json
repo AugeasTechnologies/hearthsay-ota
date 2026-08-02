@@ -1,8 +1,8 @@
 {
-  "versionCode": 32,
-  "versionName": "1.9.3",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.3/Hearthsay-v1.9.3.apk",
-  "sha256": "369ba3e27666de24091b2bb95fe5d5ccb4e501a1edeebcf8417eb790fd9b6837",
+  "versionCode": 33,
+  "versionName": "1.9.4",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.4/Hearthsay-v1.9.4.apk",
+  "sha256": "1639a97f1e320fba0785b0881b091f4d0e99500a13179a8add628730e8a93729",
   "mandatory": false,
-  "notes": "Demo moved to the web: the in-app demo entry is now a 'See the live demo' link to hearthsay.com; sign-in is the way into the app."
+  "notes": "Fixes: profile photos now persist and display; a recording is never lost if its upload fails (audio retries automatically); Save to Drive works for saved memories; Ask guides you when no one is selected yet."
 }
