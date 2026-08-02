@@ -1,8 +1,8 @@
 {
-  "versionCode": 31,
-  "versionName": "1.9.2",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.2/Hearthsay-v1.9.2.apk",
-  "sha256": "ecc2c325311d0cd40211eef43c1c15af9d875a4c614bec072fd491570a098fbb",
+  "versionCode": 32,
+  "versionName": "1.9.3",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.3/Hearthsay-v1.9.3.apk",
+  "sha256": "369ba3e27666de24091b2bb95fe5d5ccb4e501a1edeebcf8417eb790fd9b6837",
   "mandatory": false,
-  "notes": "Fixes: you can now reach sign-in from the demo; no duplicate memory on a fast double-tap; smoother family-tree bubble dragging; recorder returns the right take."
+  "notes": "Demo moved to the web: the in-app demo entry is now a 'See the live demo' link to hearthsay.com; sign-in is the way into the app."
 }
