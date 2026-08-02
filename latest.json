@@ -1,8 +1,8 @@
 {
-  "versionCode": 34,
-  "versionName": "1.9.5",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.5/Hearthsay-v1.9.5.apk",
-  "sha256": "b4829de72d55de957fd05e8339080dfa8e72f10dd634b7ceb30d71acedd79e59",
+  "versionCode": 35,
+  "versionName": "1.9.6",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.6/Hearthsay-v1.9.6.apk",
+  "sha256": "2a89c44054d4a8dcabb4e669316959918b4a35e7032d3527d71cf49a2fa71470",
   "mandatory": false,
-  "notes": "Fixes: the family tree remembers where you place people and keeps them in view; re-linking a partner no longer leaves a stale connection; the microphone always releases when you leave the record screen; recordings are never lost or deleted before they are safely uploaded."
+  "notes": "Loved-one photos now appear on memory cards, so faces you know greet you in the feed. Small copy polish on the family tree card."
 }
