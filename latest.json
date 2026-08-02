@@ -1,8 +1,8 @@
 {
-  "versionCode": 33,
-  "versionName": "1.9.4",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.4/Hearthsay-v1.9.4.apk",
-  "sha256": "1639a97f1e320fba0785b0881b091f4d0e99500a13179a8add628730e8a93729",
+  "versionCode": 34,
+  "versionName": "1.9.5",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.5/Hearthsay-v1.9.5.apk",
+  "sha256": "b4829de72d55de957fd05e8339080dfa8e72f10dd634b7ceb30d71acedd79e59",
   "mandatory": false,
-  "notes": "Fixes: profile photos now persist and display; a recording is never lost if its upload fails (audio retries automatically); Save to Drive works for saved memories; Ask guides you when no one is selected yet."
+  "notes": "Fixes: the family tree remembers where you place people and keeps them in view; re-linking a partner no longer leaves a stale connection; the microphone always releases when you leave the record screen; recordings are never lost or deleted before they are safely uploaded."
 }
