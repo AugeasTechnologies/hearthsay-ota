@@ -1,8 +1,8 @@
 {
-  "versionCode": 35,
-  "versionName": "1.9.6",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.6/Hearthsay-v1.9.6.apk",
-  "sha256": "2a89c44054d4a8dcabb4e669316959918b4a35e7032d3527d71cf49a2fa71470",
+  "versionCode": 36,
+  "versionName": "1.9.7",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.7/Hearthsay-v1.9.7.apk",
+  "sha256": "eb02f24d72da74775794b996ae8aedd8f87c4c0a241046b67c935c0539f3da94",
   "mandatory": false,
-  "notes": "Loved-one photos now appear on memory cards, so faces you know greet you in the feed. Small copy polish on the family tree card."
+  "notes": "New family accounts now open straight into the guided setup (create your vault and add your first loved one) instead of an empty home screen."
 }
