@@ -1,8 +1,9 @@
 {
-  "versionCode": 36,
-  "versionName": "1.9.7",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.7/Hearthsay-v1.9.7.apk",
-  "sha256": "eb02f24d72da74775794b996ae8aedd8f87c4c0a241046b67c935c0539f3da94",
+  "versionCode": 37,
+  "versionName": "1.9.8",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.8/Hearthsay-v1.9.8.apk",
+  "sha256": "63a8b2f2c6939237a572132e9bae36935cba242fffa1c9a30f446bfda55caced",
+  "sizeBytes": 72666437,
   "mandatory": false,
-  "notes": "New family accounts now open straight into the guided setup (create your vault and add your first loved one) instead of an empty home screen."
+  "notes": "The family tree grows up: every person shows how many memories and how much of their voice they carry; second grandparents connect to the right branch; nobody floats unlinked (a gentle Family and friends row holds anyone the tree cannot place); press and hold the fit button to restore the tidy layout. And the voice consent is now one confirmation instead of eight taps, asked once instead of every launch."
 }
