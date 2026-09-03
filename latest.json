@@ -1,9 +1,9 @@
 {
-  "versionCode": 37,
-  "versionName": "1.9.8",
-  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.8/Hearthsay-v1.9.8.apk",
-  "sha256": "63a8b2f2c6939237a572132e9bae36935cba242fffa1c9a30f446bfda55caced",
-  "sizeBytes": 72666437,
+  "versionCode": 38,
+  "versionName": "1.9.9",
+  "apkUrl": "https://github.com/AugeasTechnologies/hearthsay-ota/releases/download/v1.9.9/Hearthsay-v1.9.9.apk",
+  "sha256": "31148e486e66c1f62cb867bb2421816b4e353ead3f3f353919d0f3404a140681",
+  "sizeBytes": 72668831,
   "mandatory": false,
-  "notes": "The family tree grows up: every person shows how many memories and how much of their voice they carry; second grandparents connect to the right branch; nobody floats unlinked (a gentle Family and friends row holds anyone the tree cannot place); press and hold the fit button to restore the tidy layout. And the voice consent is now one confirmation instead of eight taps, asked once instead of every launch."
+  "notes": "Build the tree by touch: drag a person's bubble onto someone and release — the nearest bubble glows, and one tap says how they are related (parent, child, partner, or sibling). The tree connects them, tidies itself, and never lets anyone become their own ancestor."
 }
