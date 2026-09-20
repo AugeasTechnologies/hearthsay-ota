@@ -59,14 +59,24 @@ forward. The app reports those as unverified rather than as verified.
 
 ## Publishing a release
 
-From the monorepo:
+**CI (preferred):** dispatch `ota-publish.yml` on the `hearthsay` repo
+(`version_name`, `version_code`, `notes`, `mandatory`). It stamps the version
+everywhere it must agree, builds and verifies a release-signed APK, commits the
+bump to `hearthsay`'s `main`, then creates the GitHub release and updates
+`latest.json` here — the same steps below, run on a GitHub Actions runner
+instead of a person's machine. Needs a fine-grained PAT scoped only to this
+repo (`Contents: Read and write`) in `hearthsay`'s `OTA_PUBLISH_TOKEN` secret;
+without it the workflow fails its first step before spending any build time.
+
+**From a local machine (fallback):** from the monorepo,
 
 ```
 apps/mobile/scripts/release-ota.sh <versionName> <versionCode> "<notes>"
 ```
 
 It builds the release APK, creates the GitHub release + uploads the APK asset, and
-updates `latest.json` on `main`. See the script for details.
+updates `latest.json` on `main`. Requires `gh` (authenticated), a JDK 21, and
+the Android SDK locally. See the script for details.
 
 ## Note
 
